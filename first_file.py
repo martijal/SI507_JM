@@ -4,3 +4,5 @@
 x = "first file with git!"
 
 print(x)
+
+print(x*x)
